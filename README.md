@@ -23,8 +23,6 @@ Third-year CS student at Swinburne University, Sarawak, going deep on AI and mac
 
 Right now I am building an **OCR + Gemini API pipeline** for a local trading company. Invoices go in, structured accounting entries come out. It is exactly as satisfying as it sounds.
 
-Before tech I spent 5+ years as an insurance agent at Allianz, which taught me to always ask what problem we are actually solving before touching any code. That perspective sticks with me.
-
 Open to **AI engineering internships** and **research collaborations** where the work actually ships.
 
 ---
