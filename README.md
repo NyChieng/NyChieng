@@ -9,7 +9,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neng-yi-chieng-32b18435a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-C9956B?style=flat-square&logo=vercel&logoColor=white)](https://nychieng-git-main-nychiengs-projects.vercel.app)
+[![Portfolio](https://nychieng.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:nengyichieng@gmail.com)
 ![Visitors](https://komarev.com/ghpvc/?username=NyChieng&style=flat-square&color=9B8B7A&label=visitors)
 
