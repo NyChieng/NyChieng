@@ -8,7 +8,7 @@
 
 <p>Computer Science · Artificial Intelligence · Swinburne University · Malaysia</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Crimson+Text&weight=400&size=18&duration=4500&pause=1000&color=9B8B7A&center=true&vCenter=true&width=620&lines=Building+intelligent+systems+that+matter.;OCR+%C2%B7+LLMs+%C2%B7+Computer+Vision+%C2%B7+NLP.;Open+to+AI+engineering+internships." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Crimson+Text&weight=400&size=18&duration=4500&pause=1000&color=9B8B7A&center=true&vCenter=true&width=750&lines=Building+intelligent+systems+that+actually+matter.;OCR+%C2%B7+LLMs+%C2%B7+Computer+Vision+%C2%B7+NLP.;Always+curious%2C+always+building." alt="Typing animation" />
 
 <br/>
 
@@ -23,20 +23,20 @@
 
 ## About
 
-I'm a third-year CS student specializing in AI at Swinburne University, Sarawak. I build end-to-end AI pipelines — from raw OCR extraction to production-ready LLM integrations — with a focus on systems that create real, measurable business value.
+Third-year CS student at Swinburne University, Sarawak, going deep on AI and machine learning. I build end-to-end AI systems with a genuine focus on making them useful in the real world, not just in demos.
 
-Currently developing an **OCR + Gemini API automation pipeline** for a local trading company: invoices go in, structured accounting entries come out. I also bring 5+ years of client-facing experience from Allianz, which shapes how I think about practical, human-centered AI.
+Right now I am building an **OCR + Gemini API pipeline** for a local trading company. Invoices go in, structured accounting entries come out. It is exactly as satisfying as it sounds.
 
-<br/>
+Before tech I spent 5+ years as an insurance agent at Allianz, which taught me to always ask what problem we are actually solving before touching any code. That perspective sticks with me.
 
-> 🟡 &nbsp;**Open to AI engineering internships and research collaborations**
+Open to **AI engineering internships** and **research collaborations** where the work actually ships.
 
 ---
 
-## Featured Work
+## What I've Built
 
 **OCR Accounting Automation** &nbsp;&nbsp; `Python` &nbsp;`Gemini API` &nbsp;`OCR` &nbsp;`Automation`  
-End-to-end document pipeline for a local trading company — extracts invoice data, structures entries through Gemini, and syncs to accounting records. Eliminated the majority of manual data entry.
+Automated document pipeline for a local trading company. Before: manual invoice entry. After: invoices go in, accounting records come out. Meaningful time saved for a small business team.
 
 **Personal Portfolio** &nbsp;&nbsp; `Next.js 16` &nbsp;`TypeScript` &nbsp;`Tailwind CSS v4` &nbsp;`Framer Motion`  
 Dark-theme portfolio with parallax hero, ambient CSS animations, and smooth section transitions. → [Live site](https://nychieng-git-main-nychiengs-projects.vercel.app)
