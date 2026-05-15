@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/NyChieng.png" width="96" />
-
-<br/><br/>
-
 <h2>Neng Yi (Leslie) Chieng</h2>
 
 <p>Computer Science · Artificial Intelligence · Swinburne University · Malaysia</p>
