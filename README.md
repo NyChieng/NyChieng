@@ -63,8 +63,7 @@ Dark-theme portfolio with parallax hero, ambient CSS animations, and smooth sect
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=NyChieng&show_icons=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=C9956B&text_color=666666&icon_color=C9956B" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyChieng&layout=compact&hide_border=true&bg_color=ffffff&title_color=C9956B&text_color=666666&langs_count=6" />
+<img src="https://streak-stats.demolab.com?user=NyChieng&hide_border=true&background=ffffff&stroke=e8e8e8&ring=C9956B&fire=C9956B&currStreakNum=333333&sideNums=333333&currStreakLabel=C9956B&sideLabels=888888&dates=888888" />
 
 </div>
 
