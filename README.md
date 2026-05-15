@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C9956B&height=140&section=header&text=Neng%20Yi%20(Leslie)%20Chieng&fontColor=EDE5DA&fontSize=40&fontAlignY=45&desc=Aspiring%20AI%20Engineer%20%C2%B7%20CS%20%40%20Swinburne%20University&descAlignY=68&descColor=EDE5DAB3&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0B0A&height=140&section=header&text=Neng%20Yi%20(Leslie)%20Chieng&fontColor=C9956B&fontSize=40&fontAlignY=45&desc=Aspiring%20AI%20Engineer%20%C2%B7%20CS%20%40%20Swinburne%20University&descAlignY=68&descColor=EDE5DA&descSize=16" width="100%" />
 
 <div align="center">
 
@@ -76,18 +76,8 @@ leslie = {
 
 ---
 
-## Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NyChieng/NyChieng/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NyChieng/NyChieng/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/NyChieng/NyChieng/output/github-snake-dark.svg" width="100%" alt="contribution snake" />
-</picture>
-
----
-
 <div align="center">
   <sub>📍 Sarawak, Malaysia &nbsp;·&nbsp; UTC+08:00 &nbsp;·&nbsp; <em>Building the future, one model at a time.</em></sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C9956B&height=90&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0B0A&height=90&section=footer" width="100%" />
