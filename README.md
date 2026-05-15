@@ -35,7 +35,7 @@ Open to **AI engineering internships** and **research collaborations** where the
 Automated document pipeline for a local trading company. Before: manual invoice entry. After: invoices go in, accounting records come out. Meaningful time saved for a small business team.
 
 **Personal Portfolio** &nbsp;&nbsp; `Next.js 16` &nbsp;`TypeScript` &nbsp;`Tailwind CSS v4` &nbsp;`Framer Motion`  
-Dark-theme portfolio with parallax hero, ambient CSS animations, and smooth section transitions. → [Live site](https://nychieng-git-main-nychiengs-projects.vercel.app)
+Dark-theme portfolio with parallax hero, ambient CSS animations, and smooth section transitions. → [Live site](https://nychieng.vercel.app/)
 
 ---
 
