@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=20&duration=3500&pause=900&color=C9956B&center=true&vCenter=true&width=620&lines=Building+intelligent+systems+that+matter;OCR+%C2%B7+LLMs+%C2%B7+Computer+Vision+%C2%B7+NLP;Currently+open+to+AI+Engineering+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=18&duration=3500&pause=900&color=C9956B&center=true&vCenter=true&width=800&lines=Building+intelligent+systems+that+matter;OCR+%C2%B7+LLMs+%C2%B7+Computer+Vision+%C2%B7+NLP;Open+to+AI+Engineering+Roles+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -15,7 +15,7 @@
 
 ---
 
-## &nbsp;About me
+## About me
 
 ```python
 leslie = {
@@ -31,7 +31,7 @@ leslie = {
 
 ---
 
-## &nbsp;Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -47,12 +47,12 @@ leslie = {
 
 ---
 
-## &nbsp;GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=NyChieng&show_icons=true&count_private=true&hide_border=false&bg_color=0D0B0A&title_color=C9956B&text_color=EDE5DA&icon_color=C9956B&border_color=2A2420" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyChieng&layout=compact&hide_border=false&bg_color=0D0B0A&title_color=C9956B&text_color=EDE5DA&border_color=2A2420&langs_count=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NyChieng&show_icons=true&count_private=true&hide_border=false&bg_color=0D0B0A&title_color=C9956B&text_color=EDE5DA&icon_color=C9956B&border_color=2A2420" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyChieng&layout=compact&hide_border=false&bg_color=0D0B0A&title_color=C9956B&text_color=EDE5DA&border_color=2A2420&langs_count=6" />
 
 <br/>
 
@@ -62,18 +62,26 @@ leslie = {
 
 ---
 
-## &nbsp;Contribution Activity
+## Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NyChieng&bg_color=0D0B0A&color=C9956B&line=C9956B&point=EDE5DA&area=true&area_color=C9956B&hide_border=true&radius=6" width="100%" />
 
 ---
 
-## &nbsp;Contribution Snake
+## Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=NyChieng&theme=darkhub&no-frame=true&column=6&margin-w=8&margin-h=8" />
+</div>
+
+---
+
+## Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NyChieng/NyChieng/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NyChieng/NyChieng/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/NyChieng/NyChieng/output/github-snake-dark.svg" width="100%" alt="GitHub contribution snake" />
+  <img src="https://raw.githubusercontent.com/NyChieng/NyChieng/output/github-snake-dark.svg" width="100%" alt="contribution snake" />
 </picture>
 
 ---
