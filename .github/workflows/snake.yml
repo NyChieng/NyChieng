@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "0 0 * * *"   # regenerates daily
   workflow_dispatch:        # allows manual trigger from Actions tab
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/snake.yml"
 
 permissions:
   contents: write
